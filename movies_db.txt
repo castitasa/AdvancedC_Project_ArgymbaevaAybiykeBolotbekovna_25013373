@@ -1,0 +1,5 @@
+alone	dramma	2005	2.50
+home	comedy	2023	4.50
+dynamite kiss	dramma	2025	5.00
+rain	dramma	1998	3.90
+ghost	horror	204	3.40
